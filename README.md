@@ -23,9 +23,9 @@ Bản đóng gói được cung cấp trực tiếp bởi BirenDev dưới dạn
 
 **Muốn nhận file và mật khẩu, vui lòng liên hệ:**
 
-- Discord: `[Điền tài khoản Discord]`
-- Facebook: `[Điền đường dẫn Facebook]`
-- Email: `[Điền email liên hệ]`
+- Discord: `https://discord.com/users/977745837176266813`
+- Facebook: `https://www.facebook.com/vthienbhat/`
+- Email: `zaisutv@gmail.com`
 
 Không chia sẻ mật khẩu công khai. Hãy liên hệ đúng tài khoản được liệt kê ở trên.
 
