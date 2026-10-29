@@ -1,5 +1,3 @@
-# BirenDev-Scam-Center-Simulator-Vietnamese
-Bản Việt hóa Scam Center Simulator: UnderKingdom bởi BirenDev
 # 🇻🇳 BirenDev Vietnamese Localization
 ### Scam Center Simulator: UnderKingdom
 
