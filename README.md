@@ -29,6 +29,14 @@ Bản đóng gói được cung cấp trực tiếp bởi BirenDev dưới dạn
 
 Không chia sẻ mật khẩu công khai. Hãy liên hệ đúng tài khoản được liệt kê ở trên.
 
+## 📸 Hình ảnh Việt hóa
+
+### Giao diện cài đặt
+![BirenDev - Settings Vietnamese](<img width="1919" height="1079" alt="Screenshot 2026-10-29 115859" src="https://github.com/user-attachments/assets/0abbb820-5d20-4f9f-9f32-33569ae401b6" />
+)
+
+---
+
 ## 📌 Lưu ý
 
 - Đây là dự án Việt hóa cộng đồng, không phải sản phẩm chính thức của nhà phát triển game.
