@@ -32,7 +32,7 @@ Không chia sẻ mật khẩu công khai. Hãy liên hệ đúng tài khoản đ
 ## 📸 Hình ảnh Việt hóa
 
 ### Giao diện cài đặt
-![BirenDev - Settings Vietnamese](<img width="1919" height="1079" alt="Screenshot 2026-10-29 115859" src="https://github.com/user-attachments/assets/0abbb820-5d20-4f9f-9f32-33569ae401b6" />
+![BirenDev - Settings Vietnamese](![Uploading Screenshot 2026-10-29 115859.png…]()
 )
 
 ---
